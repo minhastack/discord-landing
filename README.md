@@ -1,2 +1,2 @@
-# discord
-Discord landing page
+# Discord
+Página de divulgação do Discord
