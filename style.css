@@ -123,6 +123,17 @@
     }
     @media all and (min-width : 786px) {
 
+       
+        .embed-message{
+            width: 50%
+
+        }
+
+        .embed-message-header{
+            width: 100%;
+            display: flex;
+            align-items: left;
+        }
         header {
             width: 50%;
             margin: 0 auto 50px;
@@ -132,8 +143,18 @@
                 width: 70%;
             }
 
+            .cta-container{
+                display: flex; 
+                align-items: left;
+                flex-direction: row;
+                justify-content: center;
+
+            }
+
+            
             .cta-container a{
                 width: 30%;
-                
+                margin: 0 10px;
             }
+
     }
